@@ -1,3 +1,5 @@
+
+
 <h1 align="center"> Hola!👋, Soy Eduardo</h1>
 <h3 align="center">Un amante del Data analyst</h3>
 
@@ -11,13 +13,6 @@
 
 - 📫 Me puedes encontrar en **https://www.linkedin.com/in/eduardo-obando-609b60159/**
 
-
-
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/eduardo-obando-609b60159/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jay_367" height="30" width="30" /></a>
-</p>
+![data imagen](https://github.com/user-attachments/assets/8af663d5-50c7-4bee-a62d-4c0a3bbe20d2)
 
 ----
